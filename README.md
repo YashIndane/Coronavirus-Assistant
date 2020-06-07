@@ -14,6 +14,7 @@ It will assist on the following categories -
 
 total cases , new cases , total deaths , new deaths , total recovered , new recovered , active cases , critical cases 
 total cases per million population , deaths per million population , total tests , tests per million population , population.
+
 (All the information provided is countrywise)
 
 
