@@ -3,7 +3,7 @@ import pyttsx3
 import requests
 import lxml.html as lh
 from phrases import P
-from os import sys
+
 
 
 RECOG = SR.Recognizer()
